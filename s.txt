@@ -1,0 +1,396 @@
+https://dot8987.wordpress.com/
+/////////////////////////////////////////////////////////////
+\
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>snehal</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://dot8987.wordpress.com/xmlrpc.php">
+
+<link rel="alternate" type="application/rss+xml" title="snehal &raquo; Feed" href="https://dot8987.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="snehal &raquo; Comments Feed" href="https://dot8987.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0' href='https://s2.wp.com/_static/??-eJx9kt1uwyAMhV9ozJ0WVb2Z9iyEuNQpxogfRX37QdBWda24sWzrfPjYAragjPiMPgMXFVyx5BNswQirxOTw9q96Nym9wWvM0RUTrJiDNle1V0/y2Ym9A2ItLlKyOotzssFGi8U8mmEkYu1z0LkpGBfS6JCrbIRxOP5SLb1Ug8NV+s7zHCKmpGpkKqzypQ4acpVqVvryUIWPnY4SeMlU6fSXjN606DF2+cv0ie02IZQZrETtIeWbw5GsXtEDedOVat9+ZAlZVupx7FyUE6MziX8o1NlpiiM0YvspNbX7Fe9lg77562M6TofDaTp9rj9U7gsk' type='text/css' media='all' />
+<style id='edin-style-inline-css' type='text/css'>
+.hero.with-featured-image { background-image: url(https://dot8987.files.wordpress.com/2016/07/goran-hero.jpg?w=1230); }
+.hero.without-featured-image { background-image: url(https://gorandemo.files.wordpress.com/2014/08/blur-blurred-green-1204.jpg); }
+</style>
+<link rel='stylesheet' id='print-css-1' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h' type='text/css' media='print' />
+<link rel='stylesheet' id='goran-noto-sans-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='goran-noto-serif-css'  href='https://fonts.googleapis.com/css?family=Noto+Serif%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='goran-droid-sans-mono-css'  href='https://fonts.googleapis.com/css?family=Droid+Sans+Mono' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-8' href='https://s2.wp.com/_static/??-eJx9ztEKwjAMBdAfMkbH0CfxW7pQ20qalKZl7O+d4GAi+BAuF+6B4FyAVJqXhi367A1LnzBodYJJCK0t7GEupPlIZgfcgdyhcA9JVqTW4MEuVbToapKw5T9lSskxsAb9Lj/o81scMbBOjt+De76dx8tpveE6PF83tUo2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFzksKAjEMANAL2Sn+Rl2IZ5lPpqS2TW1Si57eCroQB4VAQvISoktUGAaXR2Bta1wypNsrNZYX+hdQHk3qBBqP4Y0HCgJBntZTjw5UZkidqb16aKIZF4nFA3NFM9PPlzBcEcpfZkFiN5xVAsb719XekVHRZYOBda0NjJRFTeQcFV1wNCB15+SPy03bblfrw25vH0h6b8A='></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dot8987.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://dot8987.wordpress.com/" />
+<link rel='shortlink' href='http://wp.me/P7GyZK-2' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fdot8987.wordpress.com%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fdot8987.wordpress.com%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="snehal" />
+<meta property="og:url" content="https://dot8987.wordpress.com/" />
+<meta property="og:site_name" content="snehal" />
+<meta property="og:image" content="https://dot8987.files.wordpress.com/2016/07/goran-hero.jpg?w=1200" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="794" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:image:src" content="https://dot8987.files.wordpress.com/2016/07/goran-hero.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Visit the post for more." />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s0.wp.com/i/webclip.png" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://dot8987.wordpress.com/osd.xml" title="snehal" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#e1dfdf" />
+<meta name="application-name" content="snehal" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://dot8987.wordpress.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="Home | snehal on WordPress.com" />
+<meta name="description" content="This is the home page&#039;s excerpt" />
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+
+<body class="home page page-id-2 page-template page-template-page-templates page-template-front-page page-template-page-templatesfront-page-php mp6 customizer-styles-applied hero-image has-quinary has-custom-background has-footer-navigation navigation-default no-sidebar-full highlander-enabled highlander-light">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+				<div class="site-top-content">
+			Edit this message in the <a href="https://wordpress.com/customize/">Customizer (Theme Options)</a>		</div><!-- .site-top-content -->
+		
+		<div class="site-branding">
+						<h1 class="site-title"><a href="https://dot8987.wordpress.com/" rel="home">snehal</a></h1>
+			<h2 class="site-description"></h2>
+		</div><!-- .site-branding -->
+
+					<nav id="site-navigation" class="main-navigation" role="navigation">
+				<button class="menu-toggle">Menu</button>
+				<div class="menu-primary"><ul id="menu-primaryd" class="clear"><li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-12"><a href="https://dot8987.wordpress.com/">Home</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://dot8987.wordpress.com/about/">About</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://dot8987.wordpress.com/contact/">Contact</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://dot8987.wordpress.com/blog/">Blog</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+			</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	
+		
+<div class="hero with-featured-image">
+	
+		<article id="post-2" class="post-2 page type-page status-publish has-post-thumbnail hentry">
+						<div class="entry-content">
+				<p>Welcome to your new site!  You can edit this page by clicking on the Edit link.  For more information about customizing your site check out <a href="http://learn.wordpress.com/">http://learn.wordpress.com/</a></p>
+							</div><!-- .entry-content -->
+					</article><!-- #post-## -->
+
+	</div><!-- .hero -->
+
+
+	
+	
+
+	<div id="quaternary" class="featured-page-area">
+		<div class="featured-page-wrapper clear">
+
+												<div class="featured-page">
+
+						
+						
+							
+<article id="post-3" class="post-3 page type-page status-publish has-post-thumbnail hentry">
+	
+	<a class="post-thumbnail" href="https://dot8987.wordpress.com/about/">
+		<img width="314" height="228" src="https://dot8987.files.wordpress.com/2016/07/goran-grid-page.jpg?w=314&amp;h=228&amp;crop=1" class="attachment-edin-thumbnail-landscape size-edin-thumbnail-landscape wp-post-image" alt="Placeholder Image" />	</a>
+
+
+	<header class="entry-header"><h1 class="entry-title"><a href="https://dot8987.wordpress.com/about/" rel="bookmark">About</a></h1></header>
+	<div class="entry-summary">
+		<p>This is just a short excerpt for the about&nbsp;page.</p>
+		<p><a class="more-link" href="https://dot8987.wordpress.com/about/" rel="bookmark">
+			Read more <span class="screen-reader-text">About</span>		</a></p>
+	</div><!-- .entry-summary -->
+
+	</article><!-- #post-## -->
+
+											</div><!-- .featured-page -->
+																<div class="featured-page">
+
+						
+						
+							
+<article id="post-4" class="post-4 page type-page status-publish has-post-thumbnail hentry">
+	
+	<a class="post-thumbnail" href="https://dot8987.wordpress.com/contact/">
+		<img width="314" height="228" src="https://dot8987.files.wordpress.com/2016/07/goran-full-width-page.jpg?w=314&amp;h=228&amp;crop=1" class="attachment-edin-thumbnail-landscape size-edin-thumbnail-landscape wp-post-image" alt="Placeholder Image" />	</a>
+
+
+	<header class="entry-header"><h1 class="entry-title"><a href="https://dot8987.wordpress.com/contact/" rel="bookmark">Contact</a></h1></header>
+	<div class="entry-summary">
+		<p>This is just a short excerpt for the contact&nbsp;page.</p>
+		<p><a class="more-link" href="https://dot8987.wordpress.com/contact/" rel="bookmark">
+			Read more <span class="screen-reader-text">Contact</span>		</a></p>
+	</div><!-- .entry-summary -->
+
+	</article><!-- #post-## -->
+
+											</div><!-- .featured-page -->
+																<div class="featured-page">
+
+						
+						
+							
+<article id="post-6" class="post-6 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+	
+	<a class="post-thumbnail" href="https://dot8987.wordpress.com/2016/07/01/first-blog-post/">
+		<img width="314" height="228" src="https://dot8987.files.wordpress.com/2016/07/goran-alternate-sidebar-page.jpg?w=314&amp;h=228&amp;crop=1" class="attachment-edin-thumbnail-landscape size-edin-thumbnail-landscape wp-post-image" alt="Placeholder Image" />	</a>
+
+
+	<header class="entry-header"><h1 class="entry-title"><a href="https://dot8987.wordpress.com/2016/07/01/first-blog-post/" rel="bookmark">First blog post</a></h1></header>
+	<div class="entry-summary">
+		<p>This is the excerpt for your very first post.</p>
+		<p><a class="more-link" href="https://dot8987.wordpress.com/2016/07/01/first-blog-post/" rel="bookmark">
+			Read more <span class="screen-reader-text">First blog post</span>		</a></p>
+	</div><!-- .entry-summary -->
+
+	</article><!-- #post-## -->
+
+											</div><!-- .featured-page -->
+							
+		</div><!-- .featured-page-wrapper -->
+	</div><!-- #quaternary -->
+
+
+
+
+	<div id="quinary" class="front-page-widget-area" role="complementary">
+		<div class="front-page-widget-wrapper clear">
+							<div class="front-page-widget">
+					<aside id="text-2" class="widget widget_text"><h2 class="widget-title">Text Widget</h2>			<div class="textwidget">These are text widgets. The Text Widget allows you to add text or HTML to your sidebar. You can use a text widget to display text, links, images, HTML, or a combination of these. Edit them in the Widget section of the <a href="https://wordpress.com/customize/">Customizer</a>.</div>
+		</aside>				</div><!-- .front-page-widget -->
+			
+							<div class="front-page-widget">
+					<aside id="text-3" class="widget widget_text"><h2 class="widget-title">Front Page Widgets</h2>			<div class="textwidget"><p>This area of your home page is configured by going to the <a href="https://wordpress.com/customize/">Customizer</a> and adding widgets in the Front Page widget areas.</p>
+</div>
+		</aside>				</div><!-- .front-page-widget -->
+			
+							<div class="front-page-widget">
+					<aside id="text-4" class="widget widget_text"><h2 class="widget-title">Custom Page Templates</h2>			<div class="textwidget"><p>Goran has four custom page templates that are great for business and corporate websites:</p>
+
+<ul>
+<li><a href="http://gorandemo.wordpress.com/">Front Page Template</a></li>
+<li><a href="http://gorandemo.wordpress.com/page-templates/full-width-page/">Full Width Page Template</a></li>
+<li><a href="http://gorandemo.wordpress.com/page-templates/grid-page/">Grid Page Template</a></li>
+<li><a href="http://gorandemo.wordpress.com/page-templates/alternate-sidebar-page/">Alternate Sidebar Page Template</a></li>
+</ul></div>
+		</aside>				</div><!-- .front-page-widget -->
+					</div><!-- .front-page-widget-wrapper -->
+	</div><!-- #quinary -->
+
+
+
+
+
+	</div><!-- #content -->
+
+	
+
+	<div id="tertiary" class="footer-widget-area" role="complementary">
+		<div class="footer-widget-wrapper clear">
+							<div class="footer-widget">
+					<aside id="widget_contact_info-1" class="widget widget_contact_info"><h2 class="widget-title">Our Location</h2><iframe width="600" height="216" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=1-4+Langley+CourtLondon+WC2E+9JYUnited+Kingdom&#038;key=AIzaSyCq4vWNv6eCGe2uvhPRGWQlv80IQp8dwTE" class="contact-map"></iframe><div class="confit-address"><a href="http://maps.google.com/maps?z=16&#038;q=1-4+langley+court+london+wc2e+9jy+united+kingdom" target="_blank">1-4 Langley Court<br/>London WC2E 9JY<br/>United Kingdom</a></div><div class="confit-phone">+4420 7430 2696</div></aside>				</div><!-- .footer-widget -->
+			
+							<div class="footer-widget">
+					<aside id="text-1" class="widget widget_text"><h2 class="widget-title">Responsive Design</h2>			<div class="textwidget"><p>Goran's layout adjusts itself depending on the device you are using. This means your site will look good not only on laptop browsers, but also on devices with smaller screens, such as the iPad and the iPhone.</p>
+</div>
+		</aside>				</div><!-- .footer-widget -->
+			
+							<div class="footer-widget">
+					<aside id="nav_menu-1" class="widget widget_nav_menu"><h2 class="widget-title">Follow Us</h2><div class="menu-social-container"><ul id="menu-social" class="menu"><li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="http://facebook.com">Facebook</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="http://twitter.com">Twitter</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="http://plus.google.com">Google Plus</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="http://pinterest.com">Pinterest</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="http://dribbble.com">Dribbble</a></li>
+</ul></div></aside>				</div><!-- .footer-widget -->
+					</div><!-- .footer-widget-wrapper -->
+	</div><!-- #tertiary -->
+
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+					<nav class="footer-navigation" role="navigation">
+				<div class="menu-primaryd-container"><ul id="menu-primaryd-1" class="clear"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-12"><a href="https://dot8987.wordpress.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://dot8987.wordpress.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://dot8987.wordpress.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://dot8987.wordpress.com/blog/">Blog</a></li>
+</ul></div>			</nav><!-- .footer-navigation -->
+				<div class="site-info">
+			<a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com.</a>
+			<span class="sep"> | </span>
+			<a href="https://wordpress.com/themes/goran/" title="Learn more about this theme">The Goran Theme</a>.		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- wpcom_wp_footer -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201626y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+
+					<h3><label for="loggedout-follow-field">Follow &ldquo;snehal&rdquo;</label></h3>
+
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+			
+			<p><input type="email" name="email" placeholder="Enter your email address" id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="113578652"/>
+			<input type="hidden" name="source" value="https://dot8987.wordpress.com/"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="45a6fc7365" /><input type="hidden" name="_wp_http_referer" value="/" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="https://wordpress.com/?ref=lof">Build a website with WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+<link rel='stylesheet' id='all-css-0' href='https://s2.wp.com/wp-content/mu-plugins/widgets/contact-info/contact-info-map.css?m=1466730838h' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetpackEmojiSettings = {"base_url":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/emoji\/twemoji\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVz9sOgjAMBuAXclaUqDfGZxmjQDd2kG3g4zvwBoxBvGrTfn/SwuCYsCagCSA9lNiTQPfcS7+D2UpH5tpYk/HQkkIPj4gRG27KFrsVLKzWacTeITmmC/ADOfwntBh8BkODOjEXC8CSzOi9IpewUayyInpW0dpDqK0kCMOi/vQSg+NCsW36q5pdXtuOT6cb3lPNA1mzRU9Ngnd9y/Lz5XDKr9lRvgBz1641'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script type="text/javascript">
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "dot8987.wordpress.com";
+	</script>
+	<script type="text/javascript" src="https://s.skimresources.com/js/725X1342.skimlinks.js"></script>		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.async = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?52" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'113578652','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'113578652','v':'wpcom','tz':'0','user_id':'0','post':'2','subd':'dot8987'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1LVmwrVi5vQS5fVFtfdHBbPyw1VXIrU3hWLHhmNkZjXy9tUVB0TD0mT2czXURbcTdvODUxRnwrSm1wRkc9flR4Z10xY2xVNT1jSGRGNCVoK043JlVIUjQzUEotZ08zbi1DLnIxNT05cWR+NnguWnMyQ01GdzlQQX5ndFJLbyw4SEdzJmMmdWlUZkZ2bz1KckFuTlt3XTArQlFELkFHQ3ktaG5iS2lOP0tUUEk4TzBwRDBZYiwxNS5NN05sQVJMRC05cVBLQVt0bGhNWSU1T2I1XV16cVRLWV1FNG93X0J2Sn5XSElTY0ZHS1BiK09iTEdFdlN5WVpCX2Z2ZlFDankxfk5bUlVsOVtzZzBrNEM='}]);
+_stq.push([ 'clickTrackerInit', '113578652', '2' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
